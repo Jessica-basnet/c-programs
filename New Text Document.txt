@@ -1,0 +1,47 @@
+1. to clone a repository 
+
+git clone repo_adress
+
+2. To check status
+
+ git status
+
+3. To add files in git
+git add file_name // file
+git add .
+
+4. To commit a change
+
+git commit -m "new quiz set added"
+
+5. To push chnages
+
+git push -u origin main
+
+6. To initialize empty git repo
+git init
+
+7. To create main  Branch 
+
+git branch -M main
+
+8. To create ordinary branch
+
+git branch branch_name
+
+9. To check all available branch
+
+git branch
+
+10. To switch between branch 
+
+git checkout branch 
+
+11. to add code to server for first time
+git remote add origin repo_url(https://github.com/Jessica-basnet/c-programs.git)
+
+12. To push changes 
+
+git push -u origin maing 
+
+
